@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\MusicPlayer"
+		},
+		{
+			"path": "..\\..\\Build"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "To Do List"
+	}
+}
